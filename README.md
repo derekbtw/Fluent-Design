@@ -3,7 +3,7 @@
 
 -----
 
-![Fluent Design System](http://fluent.microsoft.com/img/building-blocks/light.png "(C) Copyright Microsoft")
+![Fluent Design System](http://fluent.microsoft.com/img/building-blocks/light.png "Copyright Microsoft")
 
 Got a lot of work to do... please feel free to contribute to this project. I'd love to see Fluent Design on the web.
 
