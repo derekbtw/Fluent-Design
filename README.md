@@ -3,6 +3,8 @@
 
 -----
 
+![Fluent Design System](http://fluent.microsoft.com/img/building-blocks/light.png "(C) Microsoft")
+
 Got a lot of work to do... please feel free to contribute to this project. I'd love to see Fluent Design on the web.
 
 Microsoft's official Fluent Design website: http://fluent.microsoft.com/
