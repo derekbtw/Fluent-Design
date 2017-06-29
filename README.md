@@ -7,4 +7,6 @@ Got a lot of work to do... please feel free to contribute to this project. I'd l
 
 Microsoft's official Fluent Design website: http://fluent.microsoft.com/
 
+-----
+
 ###### * *Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either trademarks or registered trademarks of Microsoft Corporation.* *
